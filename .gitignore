@@ -1,0 +1,13 @@
+# Ignorar arquivos e pastas do Visual Studio
+.vs/
+*.vsidx
+
+# Build
+build/
+Debug/
+Release/
+
+# Outros temporários
+*.obj
+*.pdb
+*.log
